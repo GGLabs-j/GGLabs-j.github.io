@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMHF4266DN94JPPX",
           "name": "water activity",
           "analyte_type": "shelf stability",
-          "qom": "0.2",
+          "qom": "0.25",
           "uom": "aw",
           "status": "pass"
         }
