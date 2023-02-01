@@ -295,7 +295,7 @@
           "id": "018NY6XC00LMPH4K88KC1PKJVJ",
           "name": "bifenthrin",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.023",
           "uom": "ppm",
           "status": "pass"
         },
