@@ -4,10 +4,10 @@
 	"lab_name": "Green Grower Labs",
 	"lab_ubi_license": "603400231",
 	"lab_ccrs_license": "3242088918",
-	"labresult_id": "LR.IN.",
+	"labresult_id": "LR.IN.greengrowerlabs",
 	"coa": "",
 	"sample": {
-		"id": "",
+		"id": "123456789",
 		"sample_source_id": ""
 	},
 	"status": "pass",
@@ -26,7 +26,7 @@
 					"id": "018NY6XC00LMB0JPRM2SF8F9F2",
 					"name": "THCA",
 					"analyte_type": "cannabinoids",
-					"qom": "0",
+					"qom": "20",
 					"uom": "pct",
 					"status": "pass"
 				},
