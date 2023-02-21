@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.wapp.40453688817970792",
-  "coa": "https://gglabs-j.github.io/2023/february/2.17.2023/wapp/GGL-40453688817970792.pdf",
+  "labresult_id": "LR.wapp.40453688817970782",
+  "coa": "https://gglabs-j.github.io/2023/february/2.17.2023/wapp/GGL-40453688817970782.pdf",
   "sample": {
-    "id": "40453688817970792",
+    "id": "40453688817970782",
     "sample_source_id": ""
   },
   "status": "pass",
