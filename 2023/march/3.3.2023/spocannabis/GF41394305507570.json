@@ -10,7 +10,7 @@
     "id": "GF41394305507570",
     "sample_source_id": ""
   },
-  "status": "fail",
+  "status": "pass",
   "metric_list": [
     {
       "test_id": "01FR3QCB61W03ADV6PXVFR7KJG",
@@ -46,7 +46,7 @@
           "analyte_type": "shelf stability",
           "qom": "0.65",
           "uom": "aw",
-          "status": "fail"
+          "status": "pass"
         }
       ]
     },
