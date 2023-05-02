@@ -323,7 +323,7 @@
 },
 {
 "type": "thc",
-"value": .29,
+"value": 0.29,
 "unit": "pct"
 },
 {
@@ -333,7 +333,7 @@
 },
 {
 "type": "cbda",
-"value": .1,
+"value": 0.1,
 "unit": "pct"
 },
 {
