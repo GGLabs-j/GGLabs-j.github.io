@@ -10,7 +10,7 @@
     "id": "GF41219505514159",
     "sample_source_id": ""
   },
-  "status": "fail",
+  "status": "pass",
   "metric_list": [
     {
       "test_id": "01FR3QCB61W03ADV6PXVFR7KJG",
@@ -38,15 +38,15 @@
     {
       "test_id": "01FR3QCB61RWVXNDWBCTTG2Y61",
       "test_type": "water activity assay",
-      "status": "fail",
+      "status": "pass",
       "metrics": [
         {
           "id": "018NY6XC00LMHF4266DN94JPPX",
           "name": "water activity",
           "analyte_type": "shelf stability",
-          "qom": "0.70",
+          "qom": "0.62",
           "uom": "aw",
-          "status": "fail"
+          "status": "pass"
         }
       ]
     },
