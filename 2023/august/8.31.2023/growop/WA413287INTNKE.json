@@ -670,7 +670,7 @@
           "id": "018NY6XC00LMH4TQXDXKH97K87",
           "name": "myrcene",
           "analyte_type": "terpene",
-          "qom": "1.15",
+          "qom": "0.13",
           "uom": "pct",
           "status": "pass"
         },
@@ -678,7 +678,7 @@
           "id": "018NY6XC00LM733KQWC064C0X8",
           "name": "beta-pinene",
           "analyte_type": "terpene",
-          "qom": "0.11",
+          "qom": "0.09",
           "uom": "pct",
           "status": "pass"
         },
@@ -694,7 +694,7 @@
           "id": "018NY6XC00LM6J8FQHSXARDVMZ",
           "name": "limonene",
           "analyte_type": "terpene",
-          "qom": "0.64",
+          "qom": "0.60",
           "uom": "pct",
           "status": "pass"
         },
@@ -710,7 +710,7 @@
           "id": "018NY6XC00LMK42ZVHZYKNQ1P0",
           "name": "linalool",
           "analyte_type": "terpene",
-          "qom": "0.09",
+          "qom": "0.15",
           "uom": "pct",
           "status": "pass"
         },
@@ -734,7 +734,7 @@
           "id": "018NY6XC00LMQF9D59E5T0QA0A",
           "name": "humulene",
           "analyte_type": "terpene",
-          "qom": "0.03",
+          "qom": "0.04",
           "uom": "pct",
           "status": "pass"
         }
