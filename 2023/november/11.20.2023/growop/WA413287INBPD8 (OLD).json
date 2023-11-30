@@ -10,7 +10,7 @@
 		"id": "WA413287INBPD8",
 		"sample_source_id": ""
 	},
-	"status": "pass",
+	"status": "fail",
 	"metric_list": [{
 			"test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
 			"test_type": "cannabinoids",
@@ -18,7 +18,7 @@
 					"id": "018NY6XC00LM49CV7QP9KM9QH9",
 					"name": "d9-THC",
 					"analyte_type": "cannabinoids",
-					"qom": "95",
+					"qom": "91",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -34,7 +34,7 @@
 					"id": "018NY6XC00PXG4PH0TXS014VVW",
 					"name": "total-thc",
 					"analyte_type": "cannabinoids",
-					"qom": "95",
+					"qom": "91",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -42,7 +42,7 @@
 					"id": "018NY6XC00LMK7KHD3HPW0Y90N",
 					"name": "CBD",
 					"analyte_type": "cannabinoids",
-					"qom": "1.9",
+					"qom": "2.3",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -50,7 +50,7 @@
 					"id": "018NY6XC00LMENDHEH2Y32X903",
 					"name": "CBDA",
 					"analyte_type": "cannabinoids",
-					"qom": "0.11",
+					"qom": "0.14",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -58,7 +58,7 @@
 					"id": "018NY6XC00DEEZ41QBXR2E3T97",
 					"name": "total-cbd",
 					"analyte_type": "cannabinoids",
-					"qom": "2.0",
+					"qom": "2.4",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -66,7 +66,7 @@
 					"id": "018NY6XC00SAE8Q4JSMF40YSZ3",
 					"name": "total cannabinoids",
 					"analyte_type": "Cannabinoids",
-					"qom": "97",
+					"qom": "93",
 					"uom": "pct",
 					"status": "pass"
 				}
@@ -155,7 +155,7 @@
 					"id": "018NY6XC00LMYC6MEJARSBRGW8",
 					"name": "methanol",
 					"analyte_type": "solvent",
-					"qom": "43",
+					"qom": "70",
 					"uom": "ppb",
 					"status": "pass"
 				},
@@ -179,7 +179,7 @@
 					"id": "018NY6XC00LM3CKFFVVSNJYGCH",
 					"name": "Isopropanol",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "273",
 					"uom": "ppb",
 					"status": "pass"
 				},
@@ -251,9 +251,9 @@
 					"id": "ethanol",
 					"name": "ethanol",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "7191",
 					"uom": "ppb",
-					"status": "pass"
+					"status": "fail"
 				}
 			]
 		},

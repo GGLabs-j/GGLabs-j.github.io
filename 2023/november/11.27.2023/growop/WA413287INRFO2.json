@@ -4,10 +4,10 @@
 	"lab_name": "Green Grower Labs",
 	"lab_ubi_license": "603400231",
 	"lab_ccrs_license": "3242088918",
-	"labresult_id": "LR.GO.WA413287INBPD8",
-	"coa": "https://gglabs-j.github.io/2023/november/11.20.2023/growop/GGL-WA413287INBPD8.pdf",
+	"labresult_id": "LR.GO.WA413287INRFO2",
+	"coa": "https://gglabs-j.github.io/2023/november/11.27.2023/growop/GGL-WA413287INRFO2.pdf",
 	"sample": {
-		"id": "WA413287INBPD8",
+		"id": "WA413287INRFO2",
 		"sample_source_id": ""
 	},
 	"status": "pass",
@@ -18,7 +18,7 @@
 					"id": "018NY6XC00LM49CV7QP9KM9QH9",
 					"name": "d9-THC",
 					"analyte_type": "cannabinoids",
-					"qom": "95",
+					"qom": "93",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -34,7 +34,7 @@
 					"id": "018NY6XC00PXG4PH0TXS014VVW",
 					"name": "total-thc",
 					"analyte_type": "cannabinoids",
-					"qom": "95",
+					"qom": "93",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -42,7 +42,7 @@
 					"id": "018NY6XC00LMK7KHD3HPW0Y90N",
 					"name": "CBD",
 					"analyte_type": "cannabinoids",
-					"qom": "1.9",
+					"qom": "1.7",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -50,7 +50,7 @@
 					"id": "018NY6XC00LMENDHEH2Y32X903",
 					"name": "CBDA",
 					"analyte_type": "cannabinoids",
-					"qom": "0.11",
+					"qom": "0.13",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -58,7 +58,7 @@
 					"id": "018NY6XC00DEEZ41QBXR2E3T97",
 					"name": "total-cbd",
 					"analyte_type": "cannabinoids",
-					"qom": "2.0",
+					"qom": "1.8",
 					"uom": "pct",
 					"status": "pass"
 				},
@@ -66,7 +66,7 @@
 					"id": "018NY6XC00SAE8Q4JSMF40YSZ3",
 					"name": "total cannabinoids",
 					"analyte_type": "Cannabinoids",
-					"qom": "97",
+					"qom": "95",
 					"uom": "pct",
 					"status": "pass"
 				}
@@ -155,7 +155,7 @@
 					"id": "018NY6XC00LMYC6MEJARSBRGW8",
 					"name": "methanol",
 					"analyte_type": "solvent",
-					"qom": "43",
+					"qom": "23",
 					"uom": "ppb",
 					"status": "pass"
 				},
