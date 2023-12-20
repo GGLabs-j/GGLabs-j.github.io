@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.GO.WA413287.XQYI",
-  "coa": "https://gglabs-j.github.io/2023/december/12.18.2023/GO/GGL-WA413287.INES0G.pdf",
+  "labresult_id": "LR.GO.WA413287INXQYI",
+  "coa": "https://gglabs-j.github.io/2023/december/12.18.2023/GO/GGL-WA413287INXQYI.pdf",
   "sample": {
-    "id": "WA413287.XQYI",
+    "id": "WA413287INXQYI",
     "sample_source_id": ""
   },
   "status": "pass",
@@ -36,7 +36,7 @@
           "id": "018NY6XC00PXG4PH0TXS014VVW",
           "name": "total-thc",
           "analyte_type": "cannabinoids",
-          "qom": "36",
+          "qom": "37",
           "uom": "pct",
           "status": "pass"
         },
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": ".29",
+          "qom": "0.29",
           "uom": "pct",
           "status": "pass"
         },
