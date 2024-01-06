@@ -4,52 +4,14 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.NOVO.GF41272805512957",
-  "coa": "https://gglabs-j.github.io/2023/december/12.19.2023/novo/GGL-GF41272805512957.pdf",
+  "labresult_id": "LR.PF.GF41667005519772",
+  "coa": "https://gglabs-j.github.io/2024/january/1.4.2024/purform/GGL-GF41667005519772.pdf",
   "sample": {
-    "id": "GF41272805512957",
+    "id": "GF41667005519772",
     "sample_source_id": ""
   },
   "status": "pass",
   "metric_list": [
-    {
-      "test_id": "01FR3QCB61W03ADV6PXVFR7KJG",
-      "test_type": "foreign matter assay",
-      "status": "pass",
-      "metrics": [
-        {
-          "id": "018NY6XC00LMQAZZSDXPYH62SS",
-          "name": "plant stem",
-          "analyte_type": "foreign matter",
-          "qom": "0",
-          "uom": "pct",
-          "status": "pass"
-        },
-        {
-          "id": "018NY6XC00LMA50497RDC53DB5",
-          "name": "plant seed",
-          "analyte_type": "foreign matter",
-          "qom": "0",
-          "uom": "pct",
-          "status": "pass"
-        }
-      ]
-    },
-    {
-      "test_id": "01FR3QCB61RWVXNDWBCTTG2Y61",
-      "test_type": "water activity assay",
-      "status": "pass",
-      "metrics": [
-        {
-          "id": "018NY6XC00LMHF4266DN94JPPX",
-          "name": "water activity",
-          "analyte_type": "shelf stability",
-          "qom": "0.25",
-          "uom": "aw",
-          "status": "pass"
-        }
-      ]
-    },
     {
       "test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
       "test_type": "cannabinoids",
@@ -58,7 +20,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "0.38",
+          "qom": "92",
           "uom": "pct",
           "status": "pass"
         },
@@ -66,7 +28,7 @@
           "id": "018NY6XC00LMB0JPRM2SF8F9F2",
           "name": "THCA",
           "analyte_type": "cannabinoids",
-          "qom": "24",
+          "qom": "0",
           "uom": "pct",
           "status": "pass"
         },
@@ -74,7 +36,7 @@
           "id": "018NY6XC00PXG4PH0TXS014VVW",
           "name": "total-thc",
           "analyte_type": "cannabinoids",
-          "qom": "21",
+          "qom": "92",
           "uom": "pct",
           "status": "pass"
         },
@@ -82,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "0",
+          "qom": "1.8",
           "uom": "pct",
           "status": "pass"
         },
@@ -90,7 +52,7 @@
           "id": "018NY6XC00LMENDHEH2Y32X903",
           "name": "CBDA",
           "analyte_type": "cannabinoids",
-          "qom": "0",
+          "qom": "0.12",
           "uom": "pct",
           "status": "pass"
         },
@@ -98,7 +60,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "0",
+          "qom": "1.9",
           "uom": "pct",
           "status": "pass"
         },
@@ -106,39 +68,8 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "24",
+          "qom": "94",
           "uom": "pct",
-          "status": "pass"
-        }
-      ]
-    },
-    {
-      "test_id": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
-      "test_type": "microbial assay",
-      "status": "pass",
-      "metrics": [
-        {
-          "id": "018NY6XC00LMS96WE6KHKNP52T",
-          "name": "salmonella",
-          "analyte_type": "microbe",
-          "qom": "0",
-          "uom": "cfu",
-          "status": "pass"
-        },
-        {
-          "id": "018NY6XC00LM638QCGB50ZKYKJ",
-          "name": "bile-tolerant-bacteria",
-          "analyte_type": "microbe",
-          "qom": "30",
-          "uom": "cfu",
-          "status": "pass"
-        },
-        {
-          "id": "018NY6XC00LM7S8H2RT4K4GYME",
-          "name": "e-coli",
-          "analyte_type": "microbe",
-          "qom": "0",
-          "uom": "cfu",
           "status": "pass"
         }
       ]
@@ -163,10 +94,143 @@
           "qom": "0",
           "uom": "ppb",
           "status": "pass"
-        }
-      ]
-    },
-    {
+				}
+			]
+		},
+		{
+			"test_id": "018NY6XC00XZ7ETMHJMFXSN9NX",
+			"test_type": "solvent",
+			"metrics": [{
+					"id": "018NY6XC00LMCK0YZ3T76QWMNF",
+					"name": "propane",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "butanes",
+					"name": "butanes",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LM6QHYX79AXVVRH1",
+					"name": "cyclohexane",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LMYC6MEJARSBRGW8",
+					"name": "methanol",
+					"analyte_type": "solvent",
+					"qom": "73",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "pentanes",
+					"name": "pentanes",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LM9HW5DZGD5KR55G",
+					"name": "acetone",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LM3CKFFVVSNJYGCH",
+					"name": "Isopropanol",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LM7D70QAKTR6WM30",
+					"name": "methylene-chloride",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "hexanes",
+					"name": "hexanes",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LMH5RPYTRCS5BQKJ",
+					"name": "ethyl-acetate",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LMAA8QXZ8CD0QQMW",
+					"name": "chloroform",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LMT7VRMWMXMH59Y5",
+					"name": "benzene",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LM50MYZZY71MQ7BE",
+					"name": "heptane",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "018NY6XC00LMGG9JR3SM0MEDGQ",
+					"name": "toluene",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "xylenes",
+					"name": "xylenes",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				},
+				{
+					"id": "ethanol",
+					"name": "ethanol",
+					"analyte_type": "solvent",
+					"qom": "0",
+					"uom": "ppb",
+					"status": "pass"
+				}
+			]
+		},
+		{
       "test_id": "018NY6XC0041G41TQW7V4S456K",
       "test_type": "pesticide assay",
       "status": "pass",
@@ -301,7 +365,7 @@
         },
         {
           "id": "018NY6XC00LMCQDJ36Y13GX6W3",
-          "name": "cypermethrin",
+          "name": "cyfluthrin",
           "analyte_type": "pesticide",
           "qom": "0",
           "uom": "ppm",

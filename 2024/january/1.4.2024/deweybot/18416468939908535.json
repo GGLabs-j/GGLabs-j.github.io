@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.NOVO.GF41272805512957",
-  "coa": "https://gglabs-j.github.io/2023/december/12.19.2023/novo/GGL-GF41272805512957.pdf",
+  "labresult_id": "LR.DEWBOT.18416468939908535",
+  "coa": "https://gglabs-j.github.io/2024/january/1.4.2024/deweybot/GGL-18416468939908535.pdf",
   "sample": {
-    "id": "GF41272805512957",
+    "id": "18416468939908535",
     "sample_source_id": ""
   },
   "status": "pass",
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMHF4266DN94JPPX",
           "name": "water activity",
           "analyte_type": "shelf stability",
-          "qom": "0.25",
+          "qom": "0.32",
           "uom": "aw",
           "status": "pass"
         }
@@ -58,7 +58,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "0.38",
+          "qom": "0.29",
           "uom": "pct",
           "status": "pass"
         },
@@ -129,7 +129,7 @@
           "id": "018NY6XC00LM638QCGB50ZKYKJ",
           "name": "bile-tolerant-bacteria",
           "analyte_type": "microbe",
-          "qom": "30",
+          "qom": "0",
           "uom": "cfu",
           "status": "pass"
         },
