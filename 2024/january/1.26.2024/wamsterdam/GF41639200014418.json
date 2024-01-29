@@ -10,7 +10,7 @@
     "id": "GF41639200014418",
     "sample_source_id": ""
   },
-  "status": "pass",
+  "status": "FAIL",
   "metric_list": [
     {
       "test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
@@ -233,7 +233,7 @@
 		{
       "test_id": "018NY6XC0041G41TQW7V4S456K",
       "test_type": "pesticide assay",
-      "status": "pass",
+      "status": "FAIL",
       "metrics": [
         {
           "id": "01FRK0CC1G0SMZT4RW3WR8QB9T",
@@ -593,7 +593,7 @@
           "analyte_type": "pesticide",
           "qom": "0.21",
           "uom": "ppm",
-          "status": "pass"
+          "status": "FAIL"
         },
         {
           "id": "018NY6XC00LM6VF2D0V998AY9Q",
