@@ -535,7 +535,7 @@
           "id": "018NY6XC00LM6VF2D0V998AY9Q",
           "name": "piperonyl butoxide",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.057",
           "uom": "ppm",
           "status": "pass"
         },
