@@ -10,7 +10,7 @@
     "id": "GF43498105541173",
     "sample_source_id": ""
   },
-  "status": "fail",
+  "status": "pass",
   "metric_list": [
     {
       "test_id": "01FR3QCB61W03ADV6PXVFR7KJG",
@@ -115,7 +115,7 @@
     {
       "test_id": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
       "test_type": "microbial assay",
-      "status": "fail",
+      "status": "pass",
       "metrics": [
         {
           "id": "018NY6XC00LMS96WE6KHKNP52T",
@@ -129,9 +129,9 @@
           "id": "018NY6XC00LM638QCGB50ZKYKJ",
           "name": "bile-tolerant-bacteria",
           "analyte_type": "microbe",
-          "qom": "15000",
+          "qom": "450",
           "uom": "cfu",
-          "status": "fail"
+          "status": "pass"
         },
         {
           "id": "018NY6XC00LM7S8H2RT4K4GYME",
