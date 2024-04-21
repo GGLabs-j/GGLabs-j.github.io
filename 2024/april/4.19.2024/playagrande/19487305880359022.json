@@ -136,7 +136,7 @@
 					"id": "pentanes",
 					"name": "pentanes",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "10",
 					"uom": "ppb",
 					"status": "pass"
 				},
