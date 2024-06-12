@@ -660,7 +660,7 @@
             "id": "2d4c62f8-0837-4678-862e-74c88f040e67",
             "name": "mercury",
             "analyte_type": "unknown",
-            "qom": "0",
+            "qom": "0.061",
             "uom": "ppm",
             "status": "pass"
           },
