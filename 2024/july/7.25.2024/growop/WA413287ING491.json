@@ -678,7 +678,7 @@
                     "id": "e5b03440-73fc-4270-a5a9-629146a8ffd1",
                     "name": "lead",
                     "analyte_type": "unknown",
-                    "qom": "0",
+                    "qom": "0.12",
                     "uom": "ppm",
                     "status": "pass"
                 }
