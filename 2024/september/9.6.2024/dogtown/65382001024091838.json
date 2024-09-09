@@ -83,7 +83,7 @@
 "id": "018NY6XC00LMS96WE6KHKNP52T",
 "name": "salmonella",
 "analyte_type": "microbe",
-"qom": "NA",
+"qom": "0",
 "uom": "cfu",
 "status": "pass"
 },
@@ -91,7 +91,7 @@
 "id": "018NY6XC00LM638QCGB50ZKYKJ",
 "name": "bile-tolerant-bacteria",
 "analyte_type": "microbe",
-"qom": "NA",
+"qom": "0",
 "uom": "cfu",
 "status": "pass"
 },
@@ -99,7 +99,7 @@
 "id": "018NY6XC00LM7S8H2RT4K4GYME",
 "name": "e-coli",
 "analyte_type": "microbe",
-"qom": "NA",
+"qom": "0",
 "uom": "cfu",
 "status": "pass"
 }
