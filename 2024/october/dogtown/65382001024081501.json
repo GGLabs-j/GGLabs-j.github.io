@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "100",
+          "qom": "0.0",
           "uom": "pct",
           "status": "pass"
         },
@@ -60,7 +60,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "100",
+          "qom": "0.0",
           "uom": "pct",
           "status": "pass"
         },
@@ -68,7 +68,7 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "200",
+          "qom": "100",
           "uom": "pct",
           "status": "pass"
         }
