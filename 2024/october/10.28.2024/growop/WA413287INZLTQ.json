@@ -4,10 +4,10 @@
     "lab_name": "Green Grower Labs",
     "lab_ubi_license": "603400231",
     "lab_ccrs_license": "3242088918",
-    "labresult_id": "LR.BACON.21048993708497572",
-    "coa": "https://gglabs-j.github.io/2024/october/10.24.2024/baconsbuds/GGL-21048993708497572.pdf",
+    "labresult_id": "LR.GO.WA413287INZLTQ",
+    "coa": "https://gglabs-j.github.io/2024/october/10.28.2024/growop/GGL-WA413287INZLTQ.pdf",
     "sample": {
-        "id": "21048993708497572",
+        "id": "WA413287INZLTQ",
         "sample_source_id": ""
     },
     "status": "pass",
@@ -44,7 +44,7 @@
                     "id": "018NY6XC00LMHF4266DN94JPPX",
                     "name": "water activity",
                     "analyte_type": "shelf stability",
-                    "qom": "0.30",
+                    "qom": "0.29",
                     "uom": "aw",
                     "status": "pass"
                 }
@@ -58,7 +58,7 @@
                     "id": "018NY6XC00LM49CV7QP9KM9QH9",
                     "name": "d9-THC",
                     "analyte_type": "cannabinoids",
-                    "qom": "0.36",
+                    "qom": "0.64",
                     "uom": "pct",
                     "status": "pass"
                 },
@@ -66,7 +66,7 @@
                     "id": "018NY6XC00LMB0JPRM2SF8F9F2",
                     "name": "THCA",
                     "analyte_type": "cannabinoids",
-                    "qom": "29",
+                    "qom": "28",
                     "uom": "pct",
                     "status": "pass"
                 },
@@ -74,7 +74,7 @@
                     "id": "018NY6XC00PXG4PH0TXS014VVW",
                     "name": "total-thc",
                     "analyte_type": "cannabinoids",
-                    "qom": "26",
+                    "qom": "25",
                     "uom": "pct",
                     "status": "pass"
                 },
@@ -82,7 +82,7 @@
                     "id": "018NY6XC00LMK7KHD3HPW0Y90N",
                     "name": "CBD",
                     "analyte_type": "cannabinoids",
-                    "qom": "0",
+                    "qom": "0.19",
                     "uom": "pct",
                     "status": "pass"
                 },
@@ -98,7 +98,7 @@
                     "id": "018NY6XC00DEEZ41QBXR2E3T97",
                     "name": "total-cbd",
                     "analyte_type": "cannabinoids",
-                    "qom": "0",
+                    "qom": "0.19",
                     "uom": "pct",
                     "status": "pass"
                 },
@@ -654,7 +654,7 @@
                     "id": "c893c403-be8a-4ce6-95fd-713570caf0c9",
                     "name": "arsenic",
                     "analyte_type": "unknown",
-                    "qom": "0.42",
+                    "qom": "0",
                     "uom": "ppm",
                     "status": "pass"
                 },
