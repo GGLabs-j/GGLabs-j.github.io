@@ -530,7 +530,7 @@
           "id": "018NY6XC00LMZ95MW0N3JPZ056",
           "name": "phosmet",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.011",
           "uom": "ppm",
           "status": "pass"
         },
