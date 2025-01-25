@@ -359,7 +359,7 @@
                     "id": "018NY6XC00LMNPCTGHS6PVWKS3",
                     "name": "etoxazole",
                     "analyte_type": "pesticide",
-                    "qom": "0",
+                    "qom": "0.014",
                     "uom": "ppm",
                     "status": "pass"
                 },
