@@ -654,7 +654,7 @@
                     "id": "c893c403-be8a-4ce6-95fd-713570caf0c9",
                     "name": "arsenic",
                     "analyte_type": "unknown",
-                    "qom": "0",
+                    "qom": "0.61",
                     "uom": "ppm",
                     "status": "pass"
                 },
