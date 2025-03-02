@@ -155,7 +155,7 @@
 					"id": "018NY6XC00LMYC6MEJARSBRGW8",
 					"name": "methanol",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "46",
 					"uom": "ppb",
 					"status": "pass"
 				},
