@@ -233,7 +233,7 @@
 		{
       "test_id": "018NY6XC0041G41TQW7V4S456K",
       "test_type": "pesticide assay",
-      "status": "pass",
+      "status": "fail",
       "metrics": [
         {
           "id": "01FRK0CC1G0SMZT4RW3WR8QB9T",
@@ -599,9 +599,9 @@
           "id": "018NY6XC00LM6VF2D0V998AY9Q",
           "name": "piperonyl butoxide",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "4.6",
           "uom": "ppm",
-          "status": "pass"
+          "status": "fail"
         },
         {
           "id": "018NY6XC00LMKX28NVG7PJT5WJ",
