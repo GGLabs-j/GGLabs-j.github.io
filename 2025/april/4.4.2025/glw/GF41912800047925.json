@@ -20,7 +20,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "0.56",
+          "qom": "0.59",
           "uom": "pct",
           "status": "pass"
         },
@@ -28,7 +28,7 @@
           "id": "018NY6XC00LMB0JPRM2SF8F9F2",
           "name": "THCA",
           "analyte_type": "cannabinoids",
-          "qom": "99",
+          "qom": "94",
           "uom": "pct",
           "status": "pass"
         },
@@ -36,7 +36,7 @@
           "id": "018NY6XC00PXG4PH0TXS014VVW",
           "name": "total-thc",
           "analyte_type": "cannabinoids",
-          "qom": "87",
+          "qom": "83",
           "uom": "pct",
           "status": "pass"
         },
@@ -68,7 +68,7 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "100",
+          "qom": "95",
           "uom": "pct",
           "status": "pass"
         }
@@ -706,47 +706,8 @@
           "qom": "0",
           "uom": "ppm",
           "status": "pass"
-                     }
-            ]
-        },
-        {
-            "test_id": "4d06ef9b-14b6-428d-bda9-9d5825d98566",
-            "test_type": "heavy metal assay",
-            "status": "pass",
-            "metrics": [
-                {
-                    "id": "c893c403-be8a-4ce6-95fd-713570caf0c9",
-                    "name": "arsenic",
-                    "analyte_type": "unknown",
-                    "qom": "0",
-                    "uom": "ppm",
-                    "status": "pass"
-                },
-                {
-                    "id": "2d4c62f8-0837-4678-862e-74c88f040e67",
-                    "name": "mercury",
-                    "analyte_type": "unknown",
-                    "qom": "0",
-                    "uom": "ppm",
-                    "status": "pass"
-                },
-                {
-                    "id": "24200159-9c99-4ad0-b29e-ab5a4a1ccad2",
-                    "name": "cadmium",
-                    "analyte_type": "heavy metal",
-                    "qom": "0",
-                    "uom": "ppm",
-                    "status": "pass"
-                },
-                {
-                    "id": "e5b03440-73fc-4270-a5a9-629146a8ffd1",
-                    "name": "lead",
-                    "analyte_type": "unknown",
-                    "qom": "0",
-                    "uom": "ppm",
-                    "status": "pass"
-                }
-            ]
         }
-    ]
+      ]
+    }
+  ]
 }
