@@ -112,7 +112,7 @@
 					"id": "butanes",
 					"name": "butanes",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "120",
 					"uom": "ppb",
 					"status": "pass"
 				},
@@ -152,7 +152,7 @@
 					"id": "018NY6XC00LM3CKFFVVSNJYGCH",
 					"name": "Isopropanol",
 					"analyte_type": "solvent",
-					"qom": "0",
+					"qom": "120",
 					"uom": "ppb",
 					"status": "pass"
 				},
