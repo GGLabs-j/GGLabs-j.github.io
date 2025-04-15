@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.BACON.21040401666421773",
-  "coa": "https://gglabs-j.github.io/2025/april/4.4.2025/baconsbuds/GGL-21040401666421773.pdf",
+  "labresult_id": "LR.BACON.21040462245975049",
+  "coa": "https://gglabs-j.github.io/2025/april/4.11.2025/bacons/GGL-21040462245975049.pdf",
   "sample": {
-    "id": "21040401666421773",
+    "id": "21040462245975049",
     "sample_source_id": ""
   },
   "status": "pass",
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMHF4266DN94JPPX",
           "name": "water activity",
           "analyte_type": "shelf stability",
-          "qom": "0.29",
+          "qom": "0.36",
           "uom": "aw",
           "status": "pass"
         }
@@ -58,7 +58,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "0.54",
+          "qom": "0.27",
           "uom": "pct",
           "status": "pass"
         },
@@ -66,7 +66,7 @@
           "id": "018NY6XC00LMB0JPRM2SF8F9F2",
           "name": "THCA",
           "analyte_type": "cannabinoids",
-          "qom": "22",
+          "qom": "23",
           "uom": "pct",
           "status": "pass"
         },
@@ -654,7 +654,7 @@
           "id": "018NY6XC00LMCG3GPPN8QDAGAQ",
           "name": "alpha-pinene",
           "analyte_type": "terpene",
-          "qom": "0.12",
+          "qom": "0.06",
           "uom": "pct",
           "status": "pass"
         },
@@ -670,7 +670,7 @@
           "id": "018NY6XC00LMH4TQXDXKH97K87",
           "name": "myrcene",
           "analyte_type": "terpene",
-          "qom": "0.05",
+          "qom": "0.42",
           "uom": "pct",
           "status": "pass"
         },
@@ -678,7 +678,7 @@
           "id": "018NY6XC00LM733KQWC064C0X8",
           "name": "beta-pinene",
           "analyte_type": "terpene",
-          "qom": "0.09",
+          "qom": "0.08",
           "uom": "pct",
           "status": "pass"
         },
@@ -694,7 +694,7 @@
           "id": "018NY6XC00LM6J8FQHSXARDVMZ",
           "name": "limonene",
           "analyte_type": "terpene",
-          "qom": "0.34",
+          "qom": "0.51",
           "uom": "pct",
           "status": "pass"
         },
@@ -702,7 +702,7 @@
           "id": "018NY6XC00LMBFR51SFFGQJXRF",
           "name": "terpinolene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.02",
           "uom": "pct",
           "status": "pass"
         },
@@ -710,7 +710,7 @@
           "id": "018NY6XC00LMK42ZVHZYKNQ1P0",
           "name": "linalool",
           "analyte_type": "terpene",
-          "qom": "0.20",
+          "qom": "0.21",
           "uom": "pct",
           "status": "pass"
         },
@@ -726,7 +726,7 @@
           "id": "01FQFG9EJB2ZNCCGA3W92QF334",
           "name": "caryophyllene",
           "analyte_type": "terpene",
-          "qom": "0.26",
+          "qom": "0.22",
           "uom": "pct",
           "status": "pass"
         },
@@ -734,7 +734,7 @@
           "id": "018NY6XC00LMQF9D59E5T0QA0A",
           "name": "humulene",
           "analyte_type": "terpene",
-          "qom": "0.10",
+          "qom": "0.08",
           "uom": "pct",
           "status": "pass"
                         }
@@ -749,7 +749,7 @@
                     "id": "c893c403-be8a-4ce6-95fd-713570caf0c9",
                     "name": "arsenic",
                     "analyte_type": "unknown",
-                    "qom": "0.72",
+                    "qom": "0.46",
                     "uom": "ppm",
                     "status": "pass"
                 },
