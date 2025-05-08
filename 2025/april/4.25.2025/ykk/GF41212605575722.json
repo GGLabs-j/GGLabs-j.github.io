@@ -519,7 +519,7 @@
           "id": "018NY6XC00LM3ZJH23WAKV7JEB",
           "name": "total permethrins",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.65",
           "uom": "ppm",
           "status": "pass"
         },
