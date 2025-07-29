@@ -413,7 +413,7 @@
           "id": "01FRK0CC1G0SMZT4RW3WR8QB9W",
           "name": "total pyrethrins",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.23",
           "uom": "ppm",
           "status": "pass"
         },
