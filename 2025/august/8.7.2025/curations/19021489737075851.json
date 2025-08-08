@@ -165,7 +165,7 @@
           "id": "018NY6XC00LMXVVJP95SCEWYMJ",
           "name": "dichlorvos",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "0.038",
           "uom": "ppm",
           "status": "pass"
         },
