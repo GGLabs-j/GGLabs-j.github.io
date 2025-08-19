@@ -10,7 +10,7 @@
     "id": "19021557871954074",
     "sample_source_id": ""
   },
-  "status": "pass",
+  "status": "fail",
   "metric_list": [
     {
       "test_id": "018NY6XC0041G41TQW7V4S456K",
@@ -165,9 +165,9 @@
           "id": "018NY6XC00LMXVVJP95SCEWYMJ",
           "name": "dichlorvos",
           "analyte_type": "pesticide",
-          "qom": "0",
+          "qom": "2.4",
           "uom": "ppm",
-          "status": "pass"
+          "status": "fail"
         },
         {
           "id": "018NY6XC00LM1FYB8674M2X435",
