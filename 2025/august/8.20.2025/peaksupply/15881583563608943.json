@@ -129,7 +129,7 @@
           "id": "018NY6XC00LM638QCGB50ZKYKJ",
           "name": "bile-tolerant-bacteria",
           "analyte_type": "microbe",
-          "qom": "0",
+          "qom": "200",
           "uom": "cfu",
           "status": "pass"
         },

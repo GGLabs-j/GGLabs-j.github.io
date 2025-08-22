@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.PEAK.15881583567012929",
-  "coa": "https://gglabs-j.github.io/2025/august/8.20.2025/peaksupply/GGL-15881583567012929.pdf",
+  "labresult_id": "LR.PEAK.15881583574813990",
+  "coa": "https://gglabs-j.github.io/2025/august/8.20.2025/peaksupply/GGL-15881583574813990.pdf",
   "sample": {
-    "id": "15881583567012929",
+    "id": "15881583574813990",
     "sample_source_id": ""
   },
   "status": "pass",
@@ -58,7 +58,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "1.1",
+          "qom": "0.29",
           "uom": "pct",
           "status": "pass"
         },
@@ -82,7 +82,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "0",
+          "qom": "0.33",
           "uom": "pct",
           "status": "pass"
         },
@@ -98,7 +98,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "0",
+          "qom": "0.33",
           "uom": "pct",
           "status": "pass"
         },
@@ -129,7 +129,7 @@
           "id": "018NY6XC00LM638QCGB50ZKYKJ",
           "name": "bile-tolerant-bacteria",
           "analyte_type": "microbe",
-          "qom": "30",
+          "qom": "200",
           "uom": "cfu",
           "status": "pass"
         },
