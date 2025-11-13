@@ -5,7 +5,7 @@
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
   "labresult_id": "LR.PR.14552275258983667",
-  "coa": "https://gglabs-j.github.io/2025/november/11.5.2025/parks&rec/GGL-14552275258983667.pdf",
+  "coa": "https://gglabs-j.github.io/2025/november/11.5.2025/pr/GGL-14552275258983667.pdf",
   "sample": {
     "id": "14552275258983667",
     "sample_source_id": ""
@@ -20,7 +20,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "74",
+          "qom": "79",
           "uom": "pct",
           "status": "pass"
         },
@@ -36,7 +36,7 @@
           "id": "018NY6XC00PXG4PH0TXS014VVW",
           "name": "total-thc",
           "analyte_type": "cannabinoids",
-          "qom": "74",
+          "qom": "79",
           "uom": "pct",
           "status": "pass"
         },
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "0.73",
+          "qom": "0.86",
           "uom": "pct",
           "status": "pass"
         },
@@ -60,7 +60,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "0.73",
+          "qom": "0.86",
           "uom": "pct",
           "status": "pass"
         },
@@ -68,7 +68,7 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "75",
+          "qom": "80",
           "uom": "pct",
           "status": "pass"
         }
