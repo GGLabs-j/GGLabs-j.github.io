@@ -1,0 +1,55 @@
+{
+  "document_name": "WCIA Lab Result Schema",
+  "document_schema_version": "1.3.0",
+  "lab_name": "Green Grower Labs",
+  "lab_ubi_license": "603400231",
+  "lab_ccrs_license": "3242088918",
+  "labresult_id": "LR.CSOL.GF41224000131998",
+  "coa": "https://gglabs-j.github.io/2025/november/11.10.2025/cannasol/GGL-GF41224000131998.pdf",
+  "sample": {
+    "id": "GF41224000131998",
+    "sample_source_id": ""
+  },
+  "status": "pass",
+  "metric_list": [
+    {
+      "test_id": "4d06ef9b-14b6-428d-bda9-9d5825d98566",
+      "test_type": "heavy metal assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "c893c403-be8a-4ce6-95fd-713570caf0c9",
+          "name": "arsenic",
+          "analyte_type": "unknown",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "2d4c62f8-0837-4678-862e-74c88f040e67",
+          "name": "mercury",
+          "analyte_type": "unknown",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "24200159-9c99-4ad0-b29e-ab5a4a1ccad2",
+          "name": "cadmium",
+          "analyte_type": "heavy metal",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "e5b03440-73fc-4270-a5a9-629146a8ffd1",
+          "name": "lead",
+          "analyte_type": "unknown",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        }
+      ]
+    }
+  ]
+}
