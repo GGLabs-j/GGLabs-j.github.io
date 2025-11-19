@@ -4,10 +4,10 @@
   "lab_name": "Green Grower Labs",
   "lab_ubi_license": "603400231",
   "lab_ccrs_license": "3242088918",
-  "labresult_id": "LR.PICC.40452336036482104",
-  "coa": "https://gglabs-j.github.io/2025/november/11.14.2025/picc/GGL-40452336036482104.pdf",
+  "labresult_id": "LR.PICC.40452336049476623",
+  "coa": "https://gglabs-j.github.io/2025/november/11.14.2025/picc/GGL-40452336049476623.pdf",
   "sample": {
-    "id": "40452336036482104",
+    "id": "40452336049476623",
     "sample_source_id": ""
   },
   "status": "pass",
@@ -28,7 +28,7 @@
           "id": "018NY6XC00LMB0JPRM2SF8F9F2",
           "name": "THCA",
           "analyte_type": "cannabinoids",
-          "qom": "17",
+          "qom": "12",
           "uom": "pct",
           "status": "pass"
         },
@@ -36,7 +36,7 @@
           "id": "018NY6XC00PXG4PH0TXS014VVW",
           "name": "total-thc",
           "analyte_type": "cannabinoids",
-          "qom": "36",
+          "qom": "32",
           "uom": "pct",
           "status": "pass"
         },
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "0.89",
+          "qom": "0.98",
           "uom": "pct",
           "status": "pass"
         },
@@ -52,7 +52,7 @@
           "id": "018NY6XC00LMENDHEH2Y32X903",
           "name": "CBDA",
           "analyte_type": "cannabinoids",
-          "qom": "0.11",
+          "qom": "0.88",
           "uom": "pct",
           "status": "pass"
         },
@@ -60,7 +60,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "0.99",
+          "qom": "1.8",
           "uom": "pct",
           "status": "pass"
         },
@@ -68,7 +68,7 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "39",
+          "qom": "35",
           "uom": "pct",
           "status": "pass"
         }
