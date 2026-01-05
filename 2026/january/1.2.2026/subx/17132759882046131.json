@@ -113,7 +113,7 @@
           "id": "butanes",
           "name": "butanes",
           "analyte_type": "solvent",
-          "qom": "0",
+          "qom": "1751",
           "uom": "ppb",
           "status": "pass"
         },
